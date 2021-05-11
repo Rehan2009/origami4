@@ -1,0 +1,59 @@
+ h1 {
+    color:blueviolet;
+    border: solid;
+   
+    }
+
+    .menu {
+        border:solid;
+        display:flex;
+        justify-content:space-between;
+        background-color: #000000;
+        padding: 15px;
+        font-family: monospace;
+        border-radius: 10px;
+        
+    }
+
+    body{
+        background-color: #999999;
+    }
+
+    .info {
+        
+        display:flex;
+        justify-content:start;
+        padding: 30px;
+        margin: 25px;
+        width: 250px;
+        font-family:cursive;
+    }
+
+    .camel{
+        border:solid;
+        margin: 25px;
+        padding: 30px;
+        border-radius: 10px;
+    }
+
+    .pigeon{
+        border:solid;
+        margin: 25px;
+        padding: 30px;
+        border-radius: 10px;
+    }
+
+    a:link{
+        color:blueviolet;
+    }
+
+    a:visited{
+        color:red;
+        
+    }
+
+    a:hover{
+        opacity:0.5;
+       
+    }
+    
